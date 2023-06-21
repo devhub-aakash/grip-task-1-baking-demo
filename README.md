@@ -15,3 +15,6 @@ VALUES
   ("Derek Malone","quam.elementum.at@outlook.couk",14099),
   ("Amethyst Murray","convallis.est@protonmail.org",22081),
   ("Matthew Blanchard","nonummy@icloud.com",15469);
+
+## Preview:
+![image](https://github.com/devhub-aakash/grip-task-1-baking-demo/assets/137298759/426e9123-d317-4164-b2de-0fa5bfd307f1)
