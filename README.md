@@ -1,6 +1,6 @@
 # grip-task-1-baking-demo
 
-##Follow these steps:
+## Follow these steps:
 1. Create database: CREATE DATABASE bank_db;
 2. Create Table: CREATE TABLE bank_data ( id mediumint(8) unsigned NOT NULL auto_increment, user_name varchar(255) default NULL, user_email varchar(255) default NULL, balance mediumint default NULL, PRIMARY KEY (id) ) AUTO_INCREMENT=1;
 3. Add Data: INSERT INTO `bank_data` (`user_name`,`user_email`,`balance`)
